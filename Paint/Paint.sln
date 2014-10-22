@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paint", "Paint\Paint.csproj", "{967CFDDA-71BF-47E5-BE4C-84E03BC9A950}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{967CFDDA-71BF-47E5-BE4C-84E03BC9A950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{967CFDDA-71BF-47E5-BE4C-84E03BC9A950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{967CFDDA-71BF-47E5-BE4C-84E03BC9A950}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{967CFDDA-71BF-47E5-BE4C-84E03BC9A950}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{967CFDDA-71BF-47E5-BE4C-84E03BC9A950}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{967CFDDA-71BF-47E5-BE4C-84E03BC9A950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{967CFDDA-71BF-47E5-BE4C-84E03BC9A950}.Release|Any CPU.Build.0 = Release|Any CPU
+		{967CFDDA-71BF-47E5-BE4C-84E03BC9A950}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{967CFDDA-71BF-47E5-BE4C-84E03BC9A950}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{967CFDDA-71BF-47E5-BE4C-84E03BC9A950}.Release|Win32.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

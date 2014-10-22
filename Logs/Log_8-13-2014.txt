@@ -1,0 +1,3672 @@
+btndraw_Click()..  
+BeginSendRaster() ..  
+GenerateRasterCode() called from BeginSendRaster() ..  
+DisableDrawing()..  
+Recieved Raster
+Inside Recieved Data
+Rastering is true
+Recieved Establishing contact..
+Rastering is true
+Recieved Establishing contact..  
+Sent A
+
+Recieved A
+Rastering is true
+Recieved A..  
+Recieved Arduino is Ready for linelength 
+Rastering is true
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 70
+
+Recieved 2
+Rastering is true
+Sent 010101010101010101010101010101010101010101010101010101010101
+
+Recieved 1
+Rastering is true
+Sent 68
+
+Recieved 2
+Rastering is true
+Sent 0101010101010101010101010101010101010101010101010101010101
+
+Recieved 1
+Rastering is true
+Sent 68
+
+Recieved 2
+Rastering is true
+Sent 0101010101010101010101010101010101010101010101010101010101
+
+Recieved 1
+Rastering is true
+Sent 68
+
+Recieved 2
+Rastering is true
+Sent 0101010101010101010101010101010101010101010101010101010101
+
+Recieved 1
+Rastering is true
+Sent 68
+
+Recieved 2
+Rastering is true
+Sent 0101010101010101010101010101010101010101010101010101010101
+
+Recieved 1
+Rastering is true
+Sent 68
+
+Recieved 2
+Rastering is true
+Sent 0101010101010101010101010101010101010101010101010101010101
+
+Recieved 1
+Rastering is true
+Sent 68
+
+Recieved 2
+Rastering is true
+Sent 0101010101010101010101010101010101010101010101010101010101
+
+Recieved 1
+Rastering is true
+Sent 68
+
+Recieved 2
+Rastering is true
+Sent 0101010101010101010101010101010101010101010101010101010101
+
+Recieved 1
+Rastering is true
+Sent 59
+
+Recieved 2
+Rastering is true
+Sent 0101010101010101010101010101010101010101010101010
+
+Recieved 1
+Rastering is true
+Sent 29
+
+Recieved 2
+Rastering is true
+Sent 5907349073490734030
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 31
+
+Recieved 2
+Rastering is true
+Sent 907329073290732907320
+
+Recieved 1
+Rastering is true
+Sent 32
+
+Recieved 2
+Rastering is true
+Sent 5907349073490734907340
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 28
+
+Recieved 2
+Rastering is true
+Sent 019073290732907320
+
+Recieved 1
+Rastering is true
+Sent 29
+
+Recieved 2
+Rastering is true
+Sent 5039073490734907340
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 23
+
+Recieved 2
+Rastering is true
+Sent 0190732907320
+
+Recieved 1
+Rastering is true
+Sent 29
+
+Recieved 2
+Rastering is true
+Sent 5907349073490734030
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 26
+
+Recieved 2
+Rastering is true
+Sent 9073290732907320
+
+Recieved 1
+Rastering is true
+Sent 29
+
+Recieved 2
+Rastering is true
+Sent 5907349073490734030
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 33
+
+Recieved 2
+Rastering is true
+Sent 01907329073290732907320
+
+Recieved 1
+Rastering is true
+Sent 34
+
+Recieved 2
+Rastering is true
+Sent 503907349073490734907340
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 26
+
+Recieved 2
+Rastering is true
+Sent 9073290732907320
+
+Recieved 1
+Rastering is true
+Sent 29
+
+Recieved 2
+Rastering is true
+Sent 5907349073490734030
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 28
+
+Recieved 2
+Rastering is true
+Sent 019073290732907320
+
+Recieved 1
+Rastering is true
+Sent 32
+
+Recieved 2
+Rastering is true
+Sent 5907349073490734907340
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 26
+
+Recieved 2
+Rastering is true
+Sent 9073290732907320
+
+Recieved 1
+Rastering is true
+Sent 27
+
+Recieved 2
+Rastering is true
+Sent 59073490734907340
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 28
+
+Recieved 2
+Rastering is true
+Sent 019073290732907320
+
+Recieved 1
+Rastering is true
+Sent 29
+
+Recieved 2
+Rastering is true
+Sent 5039073490734907340
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 28
+
+Recieved 2
+Rastering is true
+Sent 019073290732907320
+
+Recieved 1
+Rastering is true
+Sent 31
+
+Recieved 2
+Rastering is true
+Sent 503907349073490734030
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 26
+
+Recieved 2
+Rastering is true
+Sent 9073290732907320
+
+Recieved 1
+Rastering is true
+Sent 27
+
+Recieved 2
+Rastering is true
+Sent 59073490734907340
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 26
+
+Recieved 2
+Rastering is true
+Sent 9073290732907320
+
+Recieved 1
+Rastering is true
+Sent 27
+
+Recieved 2
+Rastering is true
+Sent 59073490734907340
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 23
+
+Recieved 2
+Rastering is true
+Sent 0190732907320
+
+Recieved 1
+Rastering is true
+Sent 27
+
+Recieved 2
+Rastering is true
+Sent 59073490734907340
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 28
+
+Recieved 2
+Rastering is true
+Sent 019073290732907320
+
+Recieved 1
+Rastering is true
+Sent 29
+
+Recieved 2
+Rastering is true
+Sent 5039073490734907340
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 26
+
+Recieved 2
+Rastering is true
+Sent 9073290732907320
+
+Recieved 1
+Rastering is true
+Sent 27
+
+Recieved 2
+Rastering is true
+Sent 59073490734907340
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 26
+
+Recieved 2
+Rastering is true
+Sent 9073290732907320
+
+Recieved 1
+Rastering is true
+Sent 27
+
+Recieved 2
+Rastering is true
+Sent 59073490734907340
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 26
+
+Recieved 2
+Rastering is true
+Sent 9073290732907320
+
+Recieved 1
+Rastering is true
+Sent 27
+
+Recieved 2
+Rastering is true
+Sent 59073490734907340
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 26
+
+Recieved 2
+Rastering is true
+Sent 9073290732907320
+
+Recieved 1
+Rastering is true
+Sent 27
+
+Recieved 2
+Rastering is true
+Sent 59073490734907340
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 28
+
+Recieved 2
+Rastering is true
+Sent 019073290732907320
+
+Recieved 1
+Rastering is true
+Sent 32
+
+Recieved 2
+Rastering is true
+Sent 5907349073490734907340
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 26
+
+Recieved 2
+Rastering is true
+Sent 9073290732907320
+
+Recieved 1
+Rastering is true
+Sent 27
+
+Recieved 2
+Rastering is true
+Sent 59073490734907340
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 26
+
+Recieved 2
+Rastering is true
+Sent 9073290732907320
+
+Recieved 1
+Rastering is true
+Sent 27
+
+Recieved 2
+Rastering is true
+Sent 59073490734907340
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 26
+
+Recieved 2
+Rastering is true
+Sent 9073290732907320
+
+Recieved 1
+Rastering is true
+Sent 27
+
+Recieved 2
+Rastering is true
+Sent 59073490734907340
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 26
+
+Recieved 2
+Rastering is true
+Sent 9073290732907320
+
+Recieved 1
+Rastering is true
+Sent 27
+
+Recieved 2
+Rastering is true
+Sent 59073490734907340
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 26
+
+Recieved 2
+Rastering is true
+Sent 9073290732907320
+
+Recieved 1
+Rastering is true
+Sent 71
+
+Recieved 2
+Rastering is true
+Sent 5030303030303030303030303030303030303030303030303030303030303
+
+Recieved 1
+Rastering is true
+Sent 68
+
+Recieved 2
+Rastering is true
+Sent 0303030303030303030303030303030303030303030303030303030303
+
+Recieved 1
+Rastering is true
+Sent 68
+
+Recieved 2
+Rastering is true
+Sent 0303030303030303030303030303030303030303030303030303030303
+
+Recieved 1
+Rastering is true
+Sent 68
+
+Recieved 2
+Rastering is true
+Sent 0303030303030303030303030303030303030303030303030303030303
+
+Recieved 1
+Rastering is true
+Sent 68
+
+Recieved 2
+Rastering is true
+Sent 0303030303030303030303030303030303030303030303030303030303
+
+Recieved 1
+Rastering is true
+Sent 68
+
+Recieved 2
+Rastering is true
+Sent 0303030303030303030303030303030303030303030303030303030303
+
+Recieved 1
+Rastering is true
+Sent 68
+
+Recieved 2
+Rastering is true
+Sent 0303030303030303030303030303030303030303030303030303030303
+
+Recieved 1
+Rastering is true
+Sent 68
+
+Recieved 2
+Rastering is true
+Sent 0303030303030303030303030303030303030303030303030303030303
+
+Recieved 1
+Rastering is true
+Sent 31
+
+Recieved 2
+Rastering is true
+Sent 030303030303030303030
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent 5
+
+Recieved 1
+Rastering is true
+Sent 11
+
+Recieved 2
+Rastering is true
+Sent r
+
+SendRaster() last line..  
+Sent r
+
+EnableDrawing() & reset lblgcode ..  
+SendRaster() returns true
+Recieved home
+Inside Recieved Home
+BeginSendVector()..  
+DisableDrawing()..  
+Send vector in BeginSendVector()..  
+Recieved Vector
+Inside Recieved Vector
+Vectoring is true
+SendVector() not ready or gcode = null  
+Recieved 
+Vectoring is true
+SendVector() not ready or gcode = null  
+Recieved Grbl 0.8c ['$' for help]
+Vectoring is true
+SendVector() not ready or gcode = null  
+Recieved error: Expected command letter
+Vectoring is true
+SendVector() not ready or gcode = null  

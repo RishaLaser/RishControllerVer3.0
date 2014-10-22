@@ -1,0 +1,9 @@
+E:\RishaController_1.1.1.6\Paint\Paint\bin\Debug\Paint.exe
+E:\RishaController_1.1.1.6\Paint\Paint\bin\Debug\Paint.pdb
+E:\RishaController_1.1.1.6\Paint\Paint\obj\Debug\ResolveAssemblyReference.cache
+E:\RishaController_1.1.1.6\Paint\Paint\obj\Debug\Paint.MainForm.resources
+E:\RishaController_1.1.1.6\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+E:\RishaController_1.1.1.6\Paint\Paint\obj\Debug\ResGen.read.1.tlog
+E:\RishaController_1.1.1.6\Paint\Paint\obj\Debug\ResGen.write.1.tlog
+E:\RishaController_1.1.1.6\Paint\Paint\obj\Debug\Paint.exe
+E:\RishaController_1.1.1.6\Paint\Paint\obj\Debug\Paint.pdb
